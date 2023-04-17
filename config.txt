@@ -1,0 +1,5 @@
+hyperlane@jobs1-production:~/.jira.d$ cat config.yml
+endpoint: https://jira.gfk.com
+password-source: stdin
+project: MMOPS
+hyperlane@jobs1-production:~/.jira.d$
